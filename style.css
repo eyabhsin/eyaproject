@@ -1,0 +1,30 @@
+.hero.is-primary {
+    background: linear-gradient(135deg, #4A90E2, #9013FE);
+}
+.profile-img {
+    max-width: 150px;
+    border-radius: 50%;
+}
+.float-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    background-color: #4A90E2;
+    color: white;
+}
+.float-container img {
+    max-width: 100px;
+    border-radius: 50%;
+}
+.float-profile {
+    max-width: 50%;
+}
+.menu-item {
+    text-align: center;
+}
+.menu-item img {
+    max-height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
